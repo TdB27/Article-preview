@@ -1,7 +1,8 @@
 # Frontend Mentor - Article preview component solution
 
-This is a solution to the [Article preview component challenge on Frontend Mentor] (https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT).
-My solution:
+This is a solution to the [Article preview component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT).
+<br />
+My solution: https://tdb27.github.io/Article-preview/
 
 ## Table of contents
 
@@ -12,10 +13,7 @@ My solution:
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -28,12 +26,19 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+<p align="center">
+  Screenshot to mobile (375px)
+  <br />
+  <img src="https://github.com/TdB27/Article-preview/blob/main/assets/screenshots/Screenshot_article_preview_mobile.png" width="350" alt="Screenshot to desktop">
+  <br />
+  Screenshot to desktop (1440px)
+  <img src="https://github.com/TdB27/Article-preview/blob/main/assets/screenshots/Screenshot_article_preview_deskstop.png" width="100%" alt="Screenshot to mobile">
+</p>
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [My solution](https://tdb27.github.io/Article-preview/)
+- Live Site URL: [Article preview component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT)
 
 ## My process
 
